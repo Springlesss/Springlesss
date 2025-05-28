@@ -70,14 +70,10 @@
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Springlesss&layout=compact&theme=tokyonight"/>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Springlesss&theme=tokyo-night&bg_color=1a1b27&color=70a5fd)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 
-## 📈 Activity Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Springlesss&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph" />
-</div>
 
 ## 🎯 Current Projects
 
